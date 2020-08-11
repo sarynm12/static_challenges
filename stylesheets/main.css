@@ -1,5 +1,38 @@
-.header {
+.header1 {
         background-color: maroon;
         color: white;
         padding: 12px;
+        font-weight: bold;
+        font-size: 20px;
+}
+
+.nav {
+        background-color: #303030;
+        padding: 10px;
+        text-align: right;
+        color: white;
+}
+
+.header2 {
+        color: black;
+        font-weight: bold;
+        font-size: 20px;
+        padding: 10px;
+}
+
+.img {
+    padding: 12px;
+}
+
+.paragraph {
+        width: 80%;
+        padding: 10px;
+}
+
+.footer {
+        width: 100%;
+        background-color: #303030;
+        padding: 8px;
+        font-size: 10px;
+        color: white;
 }
